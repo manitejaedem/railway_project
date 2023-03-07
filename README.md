@@ -1,2 +1,3 @@
 # railway_project
-create a railway booking system
+
+The Ticket Booking System in Python is a Python Programming that can book ticket in a digital way. The reservation allows operations to book or cancel.This project developed using Python
